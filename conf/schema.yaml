@@ -1,0 +1,62 @@
+## Input Data Schema
+
+# feature id: feature name
+# The order must be consistent with the raw data.
+# First field is the label. Case insensitive here.
+
+1: clk
+2: request_id
+3: account_id
+4: adplan_id
+5: scheduling_id
+6: idea_id
+7: province_id
+8: city_id
+9: ip_original
+10: os
+11: device_type
+12: client_type
+13: network
+14: idea_type
+15: industry_level1_id
+16: industry_level2_id
+17: category
+18: location
+19: isweekend
+20: weekdays
+21: hour
+22: dt
+23: request_tm
+24: ctr
+25: uid
+26: site
+27: ctr_strategy_type
+28: isp
+29: device_model
+30: longitude
+31: latitude
+32: user_industrys
+33: age
+34: ugender
+35: ucomp
+36: rk_age_range
+37: rk_hour
+38: dq
+39: sess_idea_clk
+40: sess_industry_level1_clk
+41: sess_industry_level2_clk
+42: sess_industry_level1_no_clk
+43: sess_industry_level2_no_clk
+44: sess_high_ctr_user
+45: sess_user_clk_similar_ad
+46: new_user_interests
+47: feedback_num
+48: feedback_notinterest_num
+49: user_feedback_lowquaility_ideas
+50: rec_combine1_ad1_cates
+51: rec_combine1_ad1_interests
+52: rec_combine1_ad2_cates
+53: rec_combine1_ad2_interests
+54: cost_type
+55: doc_cates
+56: doc_keywords
